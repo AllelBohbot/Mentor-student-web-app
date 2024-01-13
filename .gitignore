@@ -5,6 +5,7 @@
 /.pnp
 .pnp.js
 .yarn/install-state.gz
+client/node_modules/@next/swc-win32-x64-msvc/next-swc.win32-x64-msvc.node
 
 # testing
 /coverage
